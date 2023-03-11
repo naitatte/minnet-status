@@ -7,6 +7,8 @@ draft: false
 informational: false
 pin: true
 resolvedWhen: 2023-03-11T17:12:49.538Z
+affected:
+  - MoneroRPCWallet
 severity: down
 ---
 <!--StartFragment-->Our mining pool has recently experienced an incident with the Monero RPC wallet, which has prevented our users from being able to withdraw their earnings. The issue appears to be related to the payment processor code that was written by a third-party developer. Upon closer examination, we have discovered that the code for the payment processor is badly written and has led to a critical error in the RPC wallet
