@@ -45,6 +45,10 @@ params:
       category: Critical
     - name: Minnet API
       category: Relevant
+    - name: Minnet Main Website
+      category: Relevant
+    - name: Minnet Pool Dashboard
+      category: Relevant
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
